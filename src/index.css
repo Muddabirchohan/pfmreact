@@ -12,3 +12,71 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.navbar{
+  background-color: darkblue;
+  color: snow;
+}
+
+.round-image{
+  height: 80px;
+  width: 80px;
+  background-color: #3f51b5;
+  border-radius: 50%;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+.round-image p{
+padding-top: 30px;
+}
+
+.lists li{
+  display:block;
+  float:left;
+  color:black;
+  margin-right:10px;
+}
+
+
+.lists ul{
+text-align: center;
+}
+
+
+.accounts{
+    text-align: center;
+}
+
+.login{
+
+  padding-top: 20px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  padding-left: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+
+.login-bg{
+  padding-top: 50px;
+  padding-bottom: 80px;
+  background-image: url("./images/download.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.login h1{
+  color: darkblue;
+}
+
+

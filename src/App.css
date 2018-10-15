@@ -30,3 +30,8 @@
     transform: rotate(360deg);
   }
 }
+
+.drawer div{
+  color: white;
+  background-color: white;
+}
